@@ -29,3 +29,6 @@ dependencies:
   - name: grafana
     version: '6.57.1'
     repository: 'https://grafana.github.io/helm-charts'
+  - name: keda
+    version: '2.10.2'
+    repository: 'https://kedacore.github.io/charts'
